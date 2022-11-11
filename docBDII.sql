@@ -16,4 +16,10 @@ insert into Digimons
 	(2,'Bigmamemon','Perfect','Mutation','Data',30);
 	(3,'Dagomon','Perfect','Aquatic best man','Virus'30);
 	(4,'Delumon','Perfect','Bird','Data',20);
-	(5,'Agumon','Child','Reptile','Vaccine',20);
+	(5,'Frimon','Baby II','Lesser','None',10);
+	(6,'Fufumon','Baby I','Slime','Free',5);
+	(7,'Gazimon','Child','Mammal','Virus',15);
+	(8,'Granddracumon','Ultimate','Demon beast','Virus',45);
+	(9,'Growmon','Adult','Demon dragon','Virus',20);
+	(10,'Icemon','Adult','Ice snow','Vaccine',20);
+	(11,'Agumon','Child','Reptile','Vaccine',20);
