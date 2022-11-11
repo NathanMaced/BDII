@@ -22,4 +22,8 @@ insert into Digimons
 	(8,'Granddracumon','Ultimate','Demon beast','Virus',45);
 	(9,'Growmon','Adult','Demon dragon','Virus',20);
 	(10,'Icemon','Adult','Ice snow','Vaccine',20);
-	(11,'Agumon','Child','Reptile','Vaccine',20);
+	(11,'Lalamon','Child','Plant','Data',15);
+	(12,'Metaletemon','Perfect','Cyborg','Vaccine',30);
+	(13,'Nanimon','Adult','Invade','Virus',10);
+	(14,'Rafflesimon','Ultimate','Fairy','Data',30);
+	(15,'Agumon','Child','Reptile','Vaccine',20);
