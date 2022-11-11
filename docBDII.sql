@@ -26,4 +26,5 @@ insert into Digimons
 	(12,'Metaletemon','Perfect','Cyborg','Vaccine',30);
 	(13,'Nanimon','Adult','Invade','Virus',10);
 	(14,'Rafflesimon','Ultimate','Fairy','Data',30);
-	(15,'Agumon','Child','Reptile','Vaccine',20);
+	(15,'Skullbaluchimon','Perfect','Undead','Data',27);
+	
