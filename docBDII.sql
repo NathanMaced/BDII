@@ -27,4 +27,5 @@ insert into Digimons
 	(13,'Nanimon','Adult','Invade','Virus',10);
 	(14,'Rafflesimon','Ultimate','Fairy','Data',30);
 	(15,'Skullbaluchimon','Perfect','Undead','Data',27);
-	
+	(16,'Togemon','Adult','Plant','Data',20);
+	(17,'Skullbaluchimon','Perfect','Undead','Data',27);
