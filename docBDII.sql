@@ -33,4 +33,24 @@ insert into Digimons
 	(19,'V Mon','Child','Small dragon','Free',20)
 	(20,'Wargreymon','Ultimate','Dragon man','Vaccine',20);	
 
-	
+	update Digimons
+	set Tipo = "Madeira"
+	where DigiCode = '12';
+
+	update Digimons
+	set Tipo = "Folha"
+	where DigiCode = '11';
+
+	update Digimons
+	set Tipo = "Folha"
+	where DigiCode = '16';
+
+	delete from Digimons
+	where DigiCode = '18';
+
+	delete from Digimons
+	where DigiCode betweem '5' and '11';
+
+	select *
+	from Digimons
+	order by Tipo desc;
